@@ -31,7 +31,7 @@ const Navigation: React.FC<NavigationProps> = ({ currentMode, setMode }) => {
             onClick={() => setMode(item.mode)}
             className={`relative w-10 h-10 sm:w-11 sm:h-11 md:w-12 md:h-12 flex items-center justify-center rounded-full text-xl sm:text-2xl transition-all duration-300 ${
               currentMode === item.mode
-                ? 'bg-white shadow-md scale-110 text-opacity-100'
+                ? 'bg-white shadow-md'
                 : 'hover:bg-white/20 opacity-70 hover:opacity-100'
             }`}
             aria-label={item.label}
