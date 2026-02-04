@@ -1,0 +1,21 @@
+{
+  "info": {
+    "name": "art0-nyu",
+    "firebase_project": "art0-nyu",
+    "updated_at": "2025-12-04 22:19:27",
+    "api_keys": [],
+    "gen_ai": [
+      "Gemini"
+    ],
+    "ai_services": [],
+    "buckets": [
+      "art0-assets-v0"
+    ]
+  },
+  "ui_files": [
+    {
+      "path": "vite.config.ts",
+      "desc": "Core configuration or layout file."
+    }
+  ]
+}
