@@ -6,10 +6,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-028.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-028.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-028.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-028.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-028.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-028.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-028.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-028.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-028.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -27,10 +27,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-014.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-014.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-014.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-014.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-014.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-014.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-014.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-014.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-014.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -48,10 +48,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-001.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-001.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-001.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-001.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-001.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-001.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-001.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-001.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-001.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -69,10 +69,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-015.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-015.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-015.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-015.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-015.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-015.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-015.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-015.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-015.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -90,10 +90,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-029.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-029.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-029.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-029.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-029.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-029.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-029.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-029.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-029.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -111,10 +111,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-003.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-003.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-003.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-003.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-003.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-003.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-003.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-003.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-003.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -132,10 +132,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-017.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-017.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-017.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-017.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-017.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-017.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-017.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-017.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-017.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -153,10 +153,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-016.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-016.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-016.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-016.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-016.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-016.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-016.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-016.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-016.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -174,10 +174,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-002.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-002.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-002.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-002.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-002.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-002.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-002.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-002.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-002.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -195,10 +195,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-006.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-006.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-006.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-006.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-006.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-006.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-006.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-006.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-006.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -216,10 +216,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-012.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-012.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-012.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-012.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-012.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-012.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-012.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-012.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-012.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -237,10 +237,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-013.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-013.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-013.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-013.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-013.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-013.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-013.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-013.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-013.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -258,10 +258,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-007.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-007.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-007.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-007.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-007.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-007.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-007.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-007.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-007.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -279,10 +279,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-011.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-011.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-011.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-011.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-011.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-011.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-011.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-011.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-011.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -300,10 +300,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-005.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-005.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-005.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-005.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-005.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-005.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-005.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-005.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-005.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -321,10 +321,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-004.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-004.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-004.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-004.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-004.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-004.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-004.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-004.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-004.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -342,10 +342,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-010.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-010.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-010.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-010.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-010.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-010.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-010.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-010.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-010.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -363,10 +363,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-009.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-009.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-009.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-009.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-009.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-009.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-009.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-009.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-009.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -384,10 +384,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-021.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-021.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-021.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-021.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-021.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-021.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-021.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-021.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-021.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -405,10 +405,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-020.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-020.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-020.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-020.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-020.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-020.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-020.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-020.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-020.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -426,10 +426,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-008.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-008.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-008.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-008.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-008.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-008.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-008.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-008.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-008.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -447,10 +447,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-022.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-022.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-022.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-022.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-022.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-022.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-022.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-022.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-022.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -468,10 +468,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-023.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-023.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-023.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-023.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-023.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-023.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-023.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-023.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-023.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -489,10 +489,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-027.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-027.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-027.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-027.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-027.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-027.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-027.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-027.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-027.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -510,10 +510,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-026.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-026.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-026.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-026.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-026.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-026.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-026.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-026.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-026.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -531,10 +531,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-030.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-030.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-030.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-030.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-030.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-030.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-030.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-030.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-030.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -552,10 +552,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-024.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-024.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-024.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-024.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-024.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-024.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-024.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-024.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-024.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -573,10 +573,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-018.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-018.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-018.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-018.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-018.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-018.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-018.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-018.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-018.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -594,10 +594,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-019.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-019.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-019.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-019.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-019.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-019.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-019.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-019.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-019.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -615,10 +615,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "3l",
         "path_id": "3l/3l-025.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/3l/3l-025.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/3l/3l-025.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/3l/3l-025.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/3l/3l-025.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/3l/3l-025.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/3l/3l-025.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/3l/3l-025.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/3l/3l-025.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -636,10 +636,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-27.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-27.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-27.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-27.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-27.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-27.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-27.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-27.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-27.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -657,10 +657,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-26.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-26.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-26.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-26.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-26.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-26.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-26.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-26.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-26.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -678,10 +678,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-18.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-18.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-18.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-18.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-18.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-18.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-18.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-18.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-18.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -699,10 +699,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-24.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-24.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-24.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-24.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-24.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-24.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-24.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-24.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-24.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -720,10 +720,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-25.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-25.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-25.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-25.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-25.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-25.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-25.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-25.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-25.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -741,10 +741,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-19.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-19.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-19.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-19.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-19.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-19.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-19.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-19.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-19.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -762,10 +762,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-21.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-21.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-21.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-21.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-21.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-21.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-21.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-21.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-21.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -783,10 +783,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-09.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-09.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-09.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-09.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-09.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-09.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-09.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-09.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-09.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -804,10 +804,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-08.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-08.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-08.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-08.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-08.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-08.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-08.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-08.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-08.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -825,10 +825,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-20.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-20.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-20.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-20.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-20.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-20.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-20.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-20.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-20.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -846,10 +846,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-22.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-22.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-22.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-22.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-22.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-22.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-22.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-22.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-22.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -867,10 +867,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-23.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-23.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-23.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-23.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-23.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-23.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-23.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-23.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-23.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -888,10 +888,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-12.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-12.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-12.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-12.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-12.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-12.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-12.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-12.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-12.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -909,10 +909,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-06.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-06.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-06.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-06.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-06.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-06.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-06.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-06.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-06.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -930,10 +930,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-07.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-07.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-07.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-07.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-07.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-07.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-07.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-07.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-07.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -951,10 +951,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-13.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-13.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-13.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-13.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-13.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-13.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-13.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-13.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-13.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -972,10 +972,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-05.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-05.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-05.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-05.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-05.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-05.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-05.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-05.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-05.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -993,10 +993,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-11.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-11.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-11.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-11.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-11.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-11.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-11.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-11.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-11.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -1014,10 +1014,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-10.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-10.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-10.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-10.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-10.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-10.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-10.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-10.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-10.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -1035,10 +1035,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-04.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-04.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-04.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-04.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-04.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-04.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-04.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-04.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-04.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -1056,10 +1056,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-14.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-14.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-14.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-14.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-14.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-14.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-14.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-14.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-14.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -1077,10 +1077,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-28.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-28.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-28.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-28.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-28.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-28.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-28.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-28.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-28.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -1098,10 +1098,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-15.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-15.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-15.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-15.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-15.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-15.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-15.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-15.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-15.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -1119,10 +1119,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-01.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-01.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-01.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-01.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-01.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-01.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-01.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-01.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-01.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -1140,10 +1140,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-17.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-17.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-17.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-17.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-17.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-17.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-17.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-17.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-17.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -1161,10 +1161,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-03.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-03.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-03.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-03.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-03.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-03.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-03.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-03.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-03.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -1181,10 +1181,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-02.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-02.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-02.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-02.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-02.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-02.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-02.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-02.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-02.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -1202,10 +1202,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "Enveloppe",
         "path_id": "Enveloppe/enveloppe-16.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/Enveloppe/enveloppe-16.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/Enveloppe/enveloppe-16.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/Enveloppe/enveloppe-16.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/Enveloppe/enveloppe-16.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/Enveloppe/enveloppe-16.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/Enveloppe/enveloppe-16.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/Enveloppe/enveloppe-16.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/Enveloppe/enveloppe-16.jpg"
         },
         "meta": {
             "ratio": 2.38,
@@ -1223,10 +1223,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "big",
         "path_id": "big/big-008.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/big/big-008.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/big/big-008.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/big/big-008.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/big/big-008.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/big/big-008.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/big/big-008.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/big/big-008.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/big/big-008.jpg"
         },
         "meta": {
             "ratio": 0.66,
@@ -1244,10 +1244,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "big",
         "path_id": "big/big-009.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/big/big-009.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/big/big-009.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/big/big-009.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/big/big-009.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/big/big-009.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/big/big-009.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/big/big-009.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/big/big-009.jpg"
         },
         "meta": {
             "ratio": 0.66,
@@ -1265,10 +1265,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "big",
         "path_id": "big/big-001.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/big/big-001.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/big/big-001.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/big/big-001.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/big/big-001.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/big/big-001.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/big/big-001.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/big/big-001.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/big/big-001.jpg"
         },
         "meta": {
             "ratio": 0.69,
@@ -1286,10 +1286,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "big",
         "path_id": "big/big-002.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/big/big-002.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/big/big-002.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/big/big-002.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/big/big-002.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/big/big-002.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/big/big-002.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/big/big-002.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/big/big-002.jpg"
         },
         "meta": {
             "ratio": 0.7,
@@ -1307,10 +1307,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "big",
         "path_id": "big/big-003.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/big/big-003.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/big/big-003.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/big/big-003.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/big/big-003.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/big/big-003.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/big/big-003.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/big/big-003.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/big/big-003.jpg"
         },
         "meta": {
             "ratio": 0.7,
@@ -1328,10 +1328,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "big",
         "path_id": "big/big-007.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/big/big-007.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/big/big-007.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/big/big-007.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/big/big-007.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/big/big-007.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/big/big-007.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/big/big-007.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/big/big-007.jpg"
         },
         "meta": {
             "ratio": 0.66,
@@ -1349,10 +1349,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "big",
         "path_id": "big/big-006.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/big/big-006.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/big/big-006.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/big/big-006.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/big/big-006.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/big/big-006.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/big/big-006.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/big/big-006.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/big/big-006.jpg"
         },
         "meta": {
             "ratio": 0.7,
@@ -1369,10 +1369,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "big",
         "path_id": "big/big-004.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/big/big-004.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/big/big-004.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/big/big-004.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/big/big-004.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/big/big-004.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/big/big-004.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/big/big-004.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/big/big-004.jpg"
         },
         "meta": {
             "ratio": 0.7,
@@ -1390,10 +1390,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "big",
         "path_id": "big/big-010.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/big/big-010.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/big/big-010.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/big/big-010.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/big/big-010.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/big/big-010.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/big/big-010.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/big/big-010.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/big/big-010.jpg"
         },
         "meta": {
             "ratio": 0.66,
@@ -1411,10 +1411,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "big",
         "path_id": "big/big-005.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/big/big-005.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/big/big-005.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/big/big-005.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/big/big-005.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/big/big-005.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/big/big-005.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/big/big-005.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/big/big-005.jpg"
         },
         "meta": {
             "ratio": 0.7,
@@ -1432,10 +1432,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "cross",
         "path_id": "cross/cross-004.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/cross/cross-004.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/cross/cross-004.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/cross/cross-004.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/cross/cross-004.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/cross/cross-004.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/cross/cross-004.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/cross/cross-004.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/cross/cross-004.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -1453,10 +1453,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "cross",
         "path_id": "cross/cross-003.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/cross/cross-003.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/cross/cross-003.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/cross/cross-003.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/cross/cross-003.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/cross/cross-003.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/cross/cross-003.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/cross/cross-003.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/cross/cross-003.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -1474,10 +1474,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "cross",
         "path_id": "cross/cross-002.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/cross/cross-002.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/cross/cross-002.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/cross/cross-002.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/cross/cross-002.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/cross/cross-002.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/cross/cross-002.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/cross/cross-002.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/cross/cross-002.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -1495,10 +1495,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "cross",
         "path_id": "cross/cross-001.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/cross/cross-001.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/cross/cross-001.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/cross/cross-001.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/cross/cross-001.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/cross/cross-001.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/cross/cross-001.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/cross/cross-001.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/cross/cross-001.jpg"
         },
         "meta": {
             "ratio": 0.71,
@@ -1516,10 +1516,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-005.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-005.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-005.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-005.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-005.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-005.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-005.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-005.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-005.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1537,10 +1537,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-011.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-011.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-011.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-011.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-011.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-011.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-011.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-011.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-011.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1558,10 +1558,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-010.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-010.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-010.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-010.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-010.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-010.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-010.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-010.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-010.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1579,10 +1579,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-004.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-004.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-004.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-004.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-004.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-004.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-004.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-004.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-004.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1600,10 +1600,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-012.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-012.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-012.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-012.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-012.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-012.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-012.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-012.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-012.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1621,10 +1621,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-006.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-006.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-006.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-006.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-006.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-006.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-006.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-006.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-006.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1642,10 +1642,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-007.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-007.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-007.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-007.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-007.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-007.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-007.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-007.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-007.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1663,10 +1663,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-013.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-013.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-013.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-013.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-013.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-013.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-013.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-013.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-013.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1684,10 +1684,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-017.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-017.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-017.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-017.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-017.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-017.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-017.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-017.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-017.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1705,10 +1705,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-003.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-003.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-003.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-003.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-003.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-003.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-003.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-003.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-003.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1726,10 +1726,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-002.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-002.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-002.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-002.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-002.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-002.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-002.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-002.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-002.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1747,10 +1747,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-016.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-016.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-016.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-016.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-016.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-016.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-016.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-016.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-016.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1768,10 +1768,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-028.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-028.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-028.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-028.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-028.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-028.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-028.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-028.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-028.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1789,10 +1789,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-014.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-014.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-014.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-014.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-014.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-014.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-014.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-014.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-014.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1810,10 +1810,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-015.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-015.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-015.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-015.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-015.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-015.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-015.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-015.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-015.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1831,10 +1831,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-001.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-001.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-001.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-001.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-001.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-001.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-001.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-001.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-001.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1852,10 +1852,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-029.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-029.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-029.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-029.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-029.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-029.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-029.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-029.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-029.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1873,10 +1873,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-024.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-024.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-024.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-024.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-024.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-024.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-024.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-024.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-024.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1894,10 +1894,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-030.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-030.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-030.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-030.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-030.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-030.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-030.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-030.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-030.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1915,10 +1915,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-018.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-018.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-018.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-018.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-018.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-018.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-018.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-018.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-018.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1936,10 +1936,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-019.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-019.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-019.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-019.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-019.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-019.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-019.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-019.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-019.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1957,10 +1957,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-025.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-025.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-025.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-025.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-025.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-025.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-025.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-025.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-025.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1978,10 +1978,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-027.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-027.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-027.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-027.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-027.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-027.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-027.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-027.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-027.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -1999,10 +1999,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-026.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-026.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-026.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-026.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-026.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-026.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-026.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-026.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-026.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -2020,10 +2020,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-022.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-022.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-022.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-022.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-022.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-022.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-022.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-022.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-022.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -2041,10 +2041,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-023.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-023.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-023.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-023.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-023.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-023.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-023.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-023.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-023.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -2062,10 +2062,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-009.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-009.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-009.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-009.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-009.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-009.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-009.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-009.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-009.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -2083,10 +2083,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-021.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-021.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-021.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-021.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-021.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-021.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-021.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-021.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-021.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -2104,10 +2104,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-020.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-020.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-020.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-020.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-020.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-020.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-020.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-020.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-020.jpg"
         },
         "meta": {
             "ratio": 1.0,
@@ -2125,10 +2125,10 @@ export const ART_INVENTORY: ArtItem[] = [
         "category": "bigsquare",
         "path_id": "bigsquare/bigsquare-008.jpg",
         "urls": {
-            "originals": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/originals/bigsquare/bigsquare-008.jpg",
-            "1450": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/1450/bigsquare/bigsquare-008.jpg",
-            "580": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/580/bigsquare/bigsquare-008.jpg",
-            "290": "https://storage.googleapis.com/art0-assets-v0/art0-NYU/290/bigsquare/bigsquare-008.jpg"
+            "originals": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/originals/bigsquare/bigsquare-008.jpg",
+            "1450": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/1450/bigsquare/bigsquare-008.jpg",
+            "580": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/580/bigsquare/bigsquare-008.jpg",
+            "290": "https://storage.googleapis.com/myproject-public-assets/art0-assets/art0-NYU/290/bigsquare/bigsquare-008.jpg"
         },
         "meta": {
             "ratio": 1.0,

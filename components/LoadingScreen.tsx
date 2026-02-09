@@ -32,7 +32,7 @@ const LoadingScreen: React.FC = () => {
 
             {/* Logo */}
             <img 
-                src="https://storage.googleapis.com/art0-assets-v0/mixx/art0.svg"
+                src="https://storage.googleapis.com/myproject-public-assets/art0-assets/mixx/art0.svg"
                 alt="Art0"
                 className="relative w-12 h-12 object-contain filter brightness-0 invert opacity-90"
             />

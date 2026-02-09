@@ -22,7 +22,7 @@ const Logo: React.FC = () => {
 
                 {/* The Logo - Forced to White */}
                 <img 
-                    src="https://storage.googleapis.com/art0-assets-v0/mixx/art0.svg"
+                    src="https://storage.googleapis.com/myproject-public-assets/art0-assets/mixx/art0.svg"
                     alt="Art0"
                     className="relative w-8 h-8 md:w-9 md:h-9 object-contain filter brightness-0 invert opacity-90 group-hover:opacity-100 transition-opacity duration-300"
                 />
